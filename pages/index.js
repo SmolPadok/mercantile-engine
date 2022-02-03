@@ -15,7 +15,7 @@ export default function Home() {
       </div>
       <hr></hr>
       <div className='py-5'>
-        <p className='font-sans text-lg'><a href="/journal">Journal</a></p>
+        <p className='font-sans text-lg'><Link href="/journal">Journal</Link></p>
       </div>
     </div>
   )
