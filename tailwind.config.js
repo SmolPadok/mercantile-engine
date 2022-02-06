@@ -7,9 +7,8 @@ module.exports = {
     extend: {},
     fontFamily: {
       'sans': ['Karla', 'sans-serif'],
-      'serif': ['Eczar', 'serif']
+      'serif': ['Bluu Next', 'serif']
     }
-
   },
   plugins: [],
 }
