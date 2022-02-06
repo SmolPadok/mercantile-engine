@@ -14,7 +14,7 @@ export default function Home() {
             <div className="flex flex-col items-center gap-5">
                 <Image className="rounded-full" src="/img/me.png" alt="me" width="148" height="148"/>
                   <h1 className='font-serif text-5xl'>Qayyum Yazid</h1>
-                  <p className='font-sans text-lg'>Hi, I&apos;m <span className='font-serif'>Qayyum</span>. I'm an engineering student, alternative artist and developer. You can contact me through <a href='https://twitter.com/smolpadok' className='font-bold'>my Twitter profile</a>.</p>
+                  <p className='font-sans text-lg'>Hi, I&apos;m <span className='font-serif'>Qayyum</span>. I&apos;m an engineering student, alternative artist and developer. You can contact me through <a href='https://twitter.com/smolpadok' className='font-bold'>my Twitter profile</a>.</p>
             </div>
         </div>
       </Layout>
